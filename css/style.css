@@ -630,12 +630,12 @@ img {
 .footer__contato-cv a {
   color: #251600;
   background: linear-gradient(#ffab2d, #d17d00);
-  padding: 20px 40px;
+  padding: 9px 10px;
   border-radius: 4px;
   text-decoration: none;
   text-transform: uppercase;
   font-family: "Fira Sans", Arial, sans-serif;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   line-height: 1.3;
   display: flex;
   max-width: max-content;
@@ -655,7 +655,7 @@ img {
   display: inline-block;
   margin-top: 120px;
   font-family: "Fira Sans", Arial, sans-serif;
-  font-size: 2rem;
+  font-size: 1.3rem;
   line-height: 1.25;
   font-weight: bold;
 }
